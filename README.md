@@ -22,6 +22,6 @@
   <img align="center" src="https://img.shields.io/badge/-LucianoAndrade-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:luciano.andrade1610@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-LucianoAndrade-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-luciano.andrade1610@gmail.com-05122A?style=flat&logo=gmail" alt="luciano.andrade1610@gmail.com"/>
 </a>
 </p>
