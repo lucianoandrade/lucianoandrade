@@ -11,9 +11,7 @@
 - 🌀 &nbsp; Proficient in agile methodologies such as Scrum and Kanban, with experience in management and strategic planning.
 - 🌟 &nbsp; Fortunate to work with esteemed clients including Vale, Sicredi, Yamaha, Porto Seguro, and Vivo, crafting impactful solutions.
 
-
 <br/>
-
  
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoandrade&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="lucianoandrade" />
 
@@ -23,7 +21,7 @@
 <a href="https://www.linkedin.com/in/lucianoandradedesouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LucianoAndrade-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="href="mailto:luciano.andrade1610@gmail.com" target="_blank">
+<a href="mailto:luciano.andrade1610@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-LucianoAndrade-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
